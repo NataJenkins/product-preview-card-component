@@ -17,13 +17,13 @@ Product preview card componente from Frontend Mentor
 
 ### Screenshot
 
-![](./src/assets/images/image-product-desktop.jpg)
-![](./src/assets/images/image-product-mobile.jpg)
+![](./src/assets/images/desktop-screenshot.png)
+![](./src/assets/images/mobile-screenshot.png)
 
 ### Links
 
--   Solution URL: [Solution](https://github.com/NataJenkins/results-summary-component)
--   Live Site URL: [live site URL here](https://dashing-monstera-ceed48.netlify.app)
+-   Solution URL: [Solution](https://github.com/NataJenkins/product-preview-card-component)
+-   Live Site URL: [live site URL here](https://deft-babka-aee51c.netlify.app)
 
 ### Built with
 
