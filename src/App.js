@@ -4,11 +4,11 @@ import "./styles.scss";
 function App() {
     return (
         <div className="container">
-            <div className="card">
+            <main className="card">
                 <div className="picture" />
                 <div className="details">
                     <div className="label">PERFUME</div>
-                    <div className="title">Gabrielle Essence Eau De Parfum</div>
+                    <h1 className="title">Gabrielle Essence Eau De Parfum</h1>
                     <div className="description">
                         A floral, solar and voluptuous interpretation composed
                         by Oliver Pologe, Perfumer-Creator for the House of
@@ -24,7 +24,7 @@ function App() {
                         Add to cart
                     </button>
                 </div>
-            </div>
+            </main>
         </div>
     );
 }
